@@ -75,6 +75,7 @@ This project explores historical data from the Summer Olympics between 1976 and 
 
 1. Clone this repository:
    ```bash
+
 git clone https://github.com/your-username/olympics-data-analysis.git
 cd olympics-data-analysis
 2. Open the notebook in Jupyter or Google Colab:
@@ -84,9 +85,10 @@ File: Olympics_Data_Analysis.ipynb
 3. Run all cells:
 
 Make sure Summer-Olympic-medals-1976-to-2008.csv is in the same directory
-
-```✅ Deliverables 
-
+```
+```
+✅ Deliverables 
+```
 📒 Cleaned & structured Jupyter Notebook
 
 📊 Visualizations & Insights
