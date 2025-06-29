@@ -72,7 +72,6 @@ This project explores historical data from the Summer Olympics between 1976 and 
 ---
 
 ## 🚀 How to Run
-```
 
 1. Clone this repository:
    ```bash
