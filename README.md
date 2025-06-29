@@ -87,8 +87,8 @@ File: Olympics_Data_Analysis.ipynb
 
 Make sure Summer-Olympic-medals-1976-to-2008.csv is in the same directory
 
-```✅ Deliverables``
-```
+✅ Deliverables 
+
 📒 Cleaned & structured Jupyter Notebook
 
 📊 Visualizations & Insights
